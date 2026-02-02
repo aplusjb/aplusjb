@@ -5,7 +5,7 @@
 📈 Avid user of [@Desmos](https://github.com/desmosinc) Graphing Calculator<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=aplusjb)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aplusjb&theme=monokai&show_icons=true&hide_border=true&count_private=true)<br/>
 
 ## 💻 Languages & Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
